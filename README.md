@@ -1,7 +1,3 @@
-:::info
-**Below is an example** of what your **Group Project README** should include and how it should be structured for the **Unit 8 Group Milestone Submission**.
-:::
-
 # ARSOCIAL
 
 ## Table of Contents
