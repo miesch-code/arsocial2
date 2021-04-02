@@ -10,7 +10,7 @@
 Creates an AR image with a virtual product so the user can see what it would look like in real life. Could be a shareable gallery with others with editable features
 
 ### App Evaluation
-- **Category:** AR imaging/camera app (marketing, consumer goods)
+- **Category:** AR imaging/camera app (marketing, consumer goods, social)
 - **Mobile:** This app would be primarily developed for mobile, uses camera
 - **Story:** Creates AR imaging and a platform to share the images The user can then decide to message this person and befriend them if wanted.
 - **Market:** Any individual could choose to use this app for image sharing and creation
@@ -40,13 +40,13 @@ Creates an AR image with a virtual product so the user can see what it would loo
 * Rating and/or thumbs up/thumbs down
 
 ### 2. Screen Archetypes
-
-
-
 * Login
 * Register - User signs up or logs into their account (social media connection)
-   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
+  * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person.
+* Profile - displays user profile picture, bio, and saved products
+* Create - user is prompted to create post based on products they’ve tried via AR
 * Stream - user’s homepage is a discover streaming page that displays products they would most likely be interested in
+* AR - user can choose product to test out in AR screen and then save/share
 
 ### 3. Navigation
 
