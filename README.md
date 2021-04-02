@@ -71,4 +71,4 @@ Optional:
 ## Wireframes
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/z8Vdoyz.png" height=600>
+<img src="https://i.imgur.com/z8Vdoyz.png">
