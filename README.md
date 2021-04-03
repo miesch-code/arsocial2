@@ -115,3 +115,7 @@ Optional:
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile image
       - (Update/PUT) Update user interests, description and following
+
+##### APIs
+- Base URL - Back4App
+- AR API - https://developers.google.com/ar/reference/java/com/google/ar/core/AugmentedImage 
