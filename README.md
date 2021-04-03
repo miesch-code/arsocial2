@@ -116,6 +116,7 @@ Optional:
       - (Update/PUT) Update user profile image
       - (Update/PUT) Update user interests, description and following
 
+[OPTIONAL:] Existing API Endpoints
 ##### APIs
 - Base URL - Back4App
 - AR API - https://developers.google.com/ar/reference/java/com/google/ar/core/AugmentedImage 
