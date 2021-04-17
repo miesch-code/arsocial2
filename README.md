@@ -27,7 +27,7 @@ Creates an AR image with a virtual product so the user can see what it would loo
 
 **Required Must-have Stories**
 
-[X] User logs in 
+- [x] User logs in 
 * User has and marks their favorite products
 * User can take images and place AR item
 * User can post images
